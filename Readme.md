@@ -3,7 +3,7 @@
 
 * [DomainService1.cs](./CS/RiaServicesMailMerge.Web/DomainService1.cs) (VB: [DomainService1.vb](./VB/RiaServicesMailMerge.Web/DomainService1.vb))
 * [MainPage.xaml](./CS/RiaServicesMailMerge/MainPage.xaml) (VB: [MainPage.xaml](./VB/RiaServicesMailMerge/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/RiaServicesMailMerge/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/RiaServicesMailMerge/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/RiaServicesMailMerge/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/RiaServicesMailMerge/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to perform mail merge using WCF RIA Services with Entity Framework and DomainDataSource
 
